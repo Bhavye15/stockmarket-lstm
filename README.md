@@ -29,17 +29,11 @@ This project predicts stock prices using a Long Short-Term Memory (LSTM) model, 
 
 ## Installation
 
-1. Clone the repository:
+Clone the repository:
    ```bash
    git clone <repository_url>
    cd <repository_folder>
    ```
-
-2. Install the required dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
 ---
 
 ## How to Run
